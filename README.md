@@ -1,5 +1,5 @@
 # docker-php-nginx
-Docker + PHP (8.3.1) + Nginx (Único Container) 
+Docker + PHP8 + Nginx (Único Container) 
 
 1 - ``` docker build --no-cache -t bgastaldi/myapp:latest . ```
 
