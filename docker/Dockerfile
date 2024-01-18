@@ -1,4 +1,4 @@
-FROM php:8.3.1-fpm-alpine3.18
+FROM php:8.0.10-fpm-alpine3.14
 
 # Instalando NGINX e Supervisor
 # Ngnix needs a run directory
